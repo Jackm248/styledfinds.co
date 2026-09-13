@@ -1,1 +1,7 @@
-window.STYLE_AMAZON_PRODUCTS=[];
+window.STYLE_AMAZON_PRODUCTS=[
+{id:1,title:'Chocolate Brown Mary Jane Flats',description:'Double-strap square-toe Mary Jane flats in a rich chocolate brown for polished fall outfits.',categories:['shoes','fashion','fall'],image:'https://img.tailwindapp.net/images/433b/c4aa/c8de/540f83cb48028ac4c6d0.png',link:'https://link.amazon/B03z5hpvM'},
+{id:2,title:'Chocolate Brown Slouchy Hobo Bag',description:'Soft vegan leather hobo bag with a relaxed slouchy silhouette for everyday fall styling.',categories:['bags','accessories','fashion','fall'],image:'https://img.tailwindapp.net/images/d89f/2042/1d43/061f84c89d7e5ded387a.png',link:'https://link.amazon/B06ACJzUF'},
+{id:3,title:'3-Pack Satin Camisoles',description:'Cream, caramel and black satin camisoles for fall layering, workwear and evening outfits.',categories:['fashion','tops','fall'],image:'https://img.tailwindapp.net/images/2cd0/cfe7/9463/2451c25b06dac2afc6a3.png',link:'https://link.amazon/B0gGvhqdX'},
+{id:4,title:'Steve Madden Khaki Trench Coat',description:'Long khaki trench coat with a polished oversized silhouette for chic fall layering.',categories:['fashion','jackets','fall'],image:'https://img.tailwindapp.net/images/418e/fa46/a333/26971ce838e88c003924.png',link:'https://link.amazon/B07tIAEiI'},
+{id:5,title:'Chocolate Brown Knee-High Boots',description:'Pointed-toe knee-high boots with a low block heel for sleek, wearable fall outfits.',categories:['shoes','fashion','fall'],image:'https://img.tailwindapp.net/images/241a/5401/296a/10a3a217807a915e5d69.png',link:'https://link.amazon/B01Exl1LJ'}
+];
